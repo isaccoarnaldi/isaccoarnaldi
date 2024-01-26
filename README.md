@@ -3,21 +3,18 @@
 ### 🙋🏻‍♀️ Hello, I'm Isacco. 
 Business Analyst with expertise in data analysis and reporting, query optimization, and data modeling.
 
-• Querying data using SQL
-
-• Generate reports and perform ad-hoc data analysis using SQL
-
-• Developing dashboards on Tableau, Power BI, QuickSight, and Looker Studio
-
-• Data analysis and reporting using Google Sheets and Excel
+• Querying data using SQL.
+• Generate reports and perform ad-hoc data analysis using SQL.
+• Developing dashboards on Tableau, Power BI, QuickSight, and Looker Studio.
+• Data analysis and reporting using Google Sheets and Excel.
 
 ## 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
 
 ## 🛠️ Tools
-Language: SQL, Python
-Database: Oracle SQL, PostgreSQL, MySQL, Google BigQuery
-Visualization: Tableau, Power BI, QuickSight, Looker Studio
+Language: SQL, Python.
+Database: Oracle SQL, PostgreSQL, MySQL, Google BigQuery.
+Visualization: Tableau, Power BI, QuickSight, Looker Studio.
 
 ## 👋 Connect with Me
 
