@@ -1,4 +1,4 @@
-(https://github.com/isaccoarnaldi/isaccoarnaldi/blob/main/Github.png)
+![](https://github.com/isaccoarnaldi/isaccoarnaldi/blob/main/Github.png)
 
 ### 🙋🏻‍♀️ Hello, I'm Isacco. 
 Business Analyst with expertise in data analysis and reporting, query optimization, and data modeling.
