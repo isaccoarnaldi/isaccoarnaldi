@@ -1,5 +1,5 @@
 ### 🙋🏻‍♀️ Introducing Myself
-![](https://previews.dropbox.com/p/thumb/ACKtq3hHYqMnLmXm1ecNezJXqS8AWsxsHggZs_MU6LaEd_6dIgJNe2uub94aMfl-qVzgRF7tvy8ZaLEF6S1IkqGuMbuT56PeVDyKLFhcOCFre1SAJKB0aISRmlJSGYbgXxl0TNUOkyiUMfDvppV800P9vgHhcJcGoz0E4UtXKdEplzoAXYypnoXHYd5mWQeatmuHDacuUeYisNwUgsn_mzKDYouYAgte0L87tR3lbuY4vh-e0G20aYrsnw3ejB7g8XeLYWwzzZH7mlg3gBdeuJXlFQrER46seLdzjFdYUy6ZM8BmChQ6wMijScXSrVW1uiecZXsqAqLmvPu-stwQeYSA/p.png)
+![](https://github.com/isaccoarnaldi/isaccoarnaldi/blob/main/Github.png)
 
 Hello, I'm Isacco. Business Analyst with expertise in data analysis and reporting, query optimization, and data modeling.
 
