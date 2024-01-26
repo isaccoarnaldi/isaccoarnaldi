@@ -12,5 +12,5 @@ Business Analyst with expertise in data analysis and reporting, query optimizati
 Welcome to my portfolio, where I showcase my [projects](https://github.com/isaccoarnaldi/Portfolio/blob/main/README.md#:~:text=t-,README,-.md).
 
 ### 🛠️ Tools
-- Language: SQL, Python.
+- Language: SQL, VBA, Python.
 - Visualization: Tableau, Power BI, QuickSight, Looker Studio.
