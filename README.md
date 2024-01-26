@@ -9,7 +9,7 @@ Business Analyst with expertise in data analysis and reporting, query optimizati
 - Developing dashboards on Tableau, Power BI, QuickSight, and Looker Studio.
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/isaccoarnaldi/Portfolio/blob/main/README.md#:~:text=t-,README,-.md).
 
 ### 🛠️ Tools
 - Language: SQL, Python.
